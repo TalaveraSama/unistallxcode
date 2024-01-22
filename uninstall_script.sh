@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x  # Enable debugging
 
 # Uninstall Xtream UI (Xtream Codes)
 sudo systemctl stop mysql.service
