@@ -1,0 +1,4 @@
+1) lo ejecutas con tu nombre personalizado
+chmod +x uninstall_script.sh
+2) ejecutas el comando
+./uninstall_script.sh
