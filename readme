@@ -15,3 +15,11 @@ chmod +x uninstall_script.sh
 chmod +x uninstall_script.sh
 2) ejecutas el comando
 ./uninstall_script.sh
+-------------------------------------------------------------------------------------------------------------------
+1) descarga el archivo en tu carpeta de linux
+   wget https://github.com/TalaveraSama/unistallxcode/raw/main/xuione_unistall.sh
+
+2) dale los permisos
+   chmod +x uninstall_xui.sh
+3)  Ejecuta
+           sudo ./uninstall_xui.sh
